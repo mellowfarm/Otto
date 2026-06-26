@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node
+node_modules/
+frontend/dist/
+
+# Large files
+*.zip
+*.tar.gz
+*.pkl
+*.pt
+*.bin
+*.h5
+*.onnx
+*.safetensors
